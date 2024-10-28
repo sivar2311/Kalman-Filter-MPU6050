@@ -8,13 +8,17 @@ This project is using PlatformIO with the Arduino framework in Visual Studio Cod
 Kalman-Filter-MPU6050
   ├───.pio
   ├───.vscode
+  ├───data
+  │        index.html
+  │        script.js
+  │        style.css
   ├───include
   ├───lib
   │    └───KalmanFilter
   │            KalmanFilter.cpp
   │            KalmanFilter.h
   ├───src
-  │       ESP32_MPU_6050_Web_Server.cpp
+  │        ESP32_MPU_6050_Web_Server.cpp
   │
   └───test
   │   platformio.ini
