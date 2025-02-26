@@ -2,7 +2,7 @@
 This program uses an ESP32 to host a web server that displays readings from an MPU-6050 accelerometer and gyroscope sensor. The sensor orientation is also visualized using a rectangular prism on the web page. The gyroscope sensor readings (pitch and roll at least) are filtered using a Kalman filter. This program uses Visual Studio Code and the extension PlatformIO.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"><br>
+  <img src="https://s3.gifyu.com/images/bS5m7.gif"><br>
   Folder structure in VS Code after building.
 </p>
 
