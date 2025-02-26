@@ -1,8 +1,8 @@
 # KalmanFilterMPU6050
 This program uses an ESP32 to host a web server that displays readings from an MPU-6050 accelerometer and gyroscope sensor. The sensor orientation is also visualized using a rectangular prism on the web page. The gyroscope sensor readings (pitch and roll at least) are filtered using a Kalman filter. This program uses Visual Studio Code and the extension PlatformIO.
 
-## Video Demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UjhBxuVpexo?si=xhqsX2FjjhT-E8kH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![IMU Data Visualization]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://gifyu.com/image/bS5m7))
+
 
 ## Project Structure
 This project is using PlatformIO with the Arduino framework in Visual Studio Code. PlatformIO is just a extra set of tools to make it easier to build a project.
