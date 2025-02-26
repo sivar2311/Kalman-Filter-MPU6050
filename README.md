@@ -3,7 +3,12 @@ This program uses an ESP32 to host a web server that displays readings from an M
 
 ![https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg4Z3J6OXJ6dWN5bjJpbGhvMTg1MXhtcGJiaGRrb21oM2dzMTdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfgviCJI3zNZ9dE2i1/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF2endpYW4xaG40anFkdDg2djZ5ZWxrczZsOTNtdzFiNTZvZjJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jeLeWuEFeydKm17wbs/giphy.gif)
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF2endpYW4xaG40anFkdDg2djZ5ZWxrczZsOTNtdzFiNTZvZjJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jeLeWuEFeydKm17wbs/giphy.gif"><br>
+  Folder structure in VS Code after building.
+</p>
 
+[Youtube Demo](https://www.youtube.com/watch?v=UjhBxuVpexo)
 
 
 ## Project Structure
