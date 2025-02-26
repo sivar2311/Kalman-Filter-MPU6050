@@ -6,6 +6,8 @@ This program uses an ESP32 to host a web server that displays readings from an M
   Folder structure in VS Code after building.
 </p>
 
+<iframe src="https://giphy.com/embed/ZfgviCJI3zNZ9dE2i1" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZfgviCJI3zNZ9dE2i1">via GIPHY</a></p>
+
 ## Project Structure
 This project is using PlatformIO with the Arduino framework in Visual Studio Code. PlatformIO is just a extra set of tools to make it easier to build a project.
 
