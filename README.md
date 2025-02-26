@@ -3,7 +3,7 @@ This program uses an ESP32 to host a web server that displays readings from an M
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF2endpYW4xaG40anFkdDg2djZ5ZWxrczZsOTNtdzFiNTZvZjJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jeLeWuEFeydKm17wbs/giphy.gif"><br>
-  Physical Demonstration
+  Physical Demonstration<br>
   [Youtube Version](https://www.youtube.com/watch?v=UjhBxuVpexo)
 </p>
 
