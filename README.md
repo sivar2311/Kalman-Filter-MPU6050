@@ -1,7 +1,9 @@
 # KalmanFilterMPU6050
 This program uses an ESP32 to host a web server that displays readings from an MPU-6050 accelerometer and gyroscope sensor. The sensor orientation is also visualized using a rectangular prism on the web page. The gyroscope sensor readings (pitch and roll at least) are filtered using a Kalman filter. This program uses Visual Studio Code and the extension PlatformIO.
 
-![https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg4Z3J6OXJ6dWN5bjJpbGhvMTg1MXhtcGJiaGRrb21oM2dzMTdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfgviCJI3zNZ9dE2i1/giphy.gif)
+![https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg4Z3J6OXJ6dWN5bjJpbGhvMTg1MXhtcGJiaGRrb21oM2dzMTdsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZfgviCJI3zNZ9dE2i1/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTF2endpYW4xaG40anFkdDg2djZ5ZWxrczZsOTNtdzFiNTZvZjJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jeLeWuEFeydKm17wbs/giphy.gif)
+
+
 
 
 ## Project Structure
