@@ -12,25 +12,23 @@ This project is using PlatformIO with the Arduino framework in Visual Studio Cod
 
 ```
 Kalman-Filter-MPU6050
-  ├───.pio
-  ├───.vscode
-  ├───data
-  │        index.html
-  │        script.js
-  │        style.css
-  ├───include
-  ├───lib
-  │    └───KalmanFilter
-  │            KalmanFilter.cpp
-  │            KalmanFilter.h
-  ├───src
-  │        ESP32_MPU_6050_Web_Server.cpp
-  │
-  └───test
-  │   platformio.ini
+.
+├── lib
+│   └── KalmanFilter
+│       ├── KalmanFilter.cpp
+│       └── KalmanFilter.h
+├── src
+│   ├── ESP32_MPU_6050_Web_Server.cpp
+│   ├── WebPages.cpp
+│   └── WebPages.h
+├── .gitignore
+├── platformio.ini
+└── README.md
 ```
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b5f7d076-f044-4ed2-8564-c85cd385ab7b"><br>
-  Folder structure in VS Code after building.
-</p>
+# Modifications
+This repository is a fork of https://github.com/Mohamed1628/Kalman-Filter-MPU6050 with the following modifications and updates
+- Updated libraries are used (`esp32async/ESPAsyncWebServer`)
+- Moved from `arduino-libraries/Arduino_JSON` to `bblanchon/ArduinoJson`
+- Removed the datafiles "index.html", "script.js" and "style.css" from local filesystem directly into the code - See [`src/WebPages.h`](./src/WebPages.h) and [`src/WebPages.cpp`](./src/WebPages.cpp)
+- Code restructuring
